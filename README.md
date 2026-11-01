@@ -15,4 +15,4 @@
 Run this command as root on your VPS:
 
 ```bash
-bash <(curl -s [https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/voidnode/main/install.sh](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/voidnode/main/install.sh))
+bash <(curl -s [https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/voidnode/main/install.sh](https://raw.githubusercontent.com/domain843/voidnode/main/install.sh))
