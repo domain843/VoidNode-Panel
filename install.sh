@@ -37,7 +37,7 @@ if [ -d "$INSTALL_DIR" ]; then
     rm -rf "$INSTALL_DIR"
 fi
 # REPLACE 'YOUR_GITHUB_USERNAME' WITH YOUR ACTUAL GITHUB USERNAME
-git clone https://github.com/domain843/voidnode.git "$INSTALL_DIR"
+git clone https://github.com/domain843/VoidNode-Panel.git "$INSTALL_DIR"
 
 echo "[ * ] Setting up Python virtual environment..."
 cd "$INSTALL_DIR/backend"
